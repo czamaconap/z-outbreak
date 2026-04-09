@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/app.dir/app/main.cpp.o -o app  -Wl,-rpath,/opt/homebrew/lib libengine.a -framework OpenGL /opt/homebrew/lib/libglfw.3.4.dylib

@@ -1,0 +1,4 @@
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/build/CMakeFiles/engine.dir
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/build/CMakeFiles/app.dir
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/build/CMakeFiles/edit_cache.dir
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/build/CMakeFiles/rebuild_cache.dir

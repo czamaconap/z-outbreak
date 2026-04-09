@@ -663,19 +663,102 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/sample.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bit \
-  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glad/include/glad/glad.h \
-  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glad/include/KHR/khrplatform.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ios \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/locale_base_api.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/support/apple.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/support/bsd_like.h \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/glm.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_fixes.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_assert.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_static_assert.h \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/../simd/platform.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cfloat \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/float.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/float.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/float.h \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/fwd.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_bool2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/type_vec2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/./compute_vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/./setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_bool2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_float2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_float2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_double2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_double2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_int2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_int2_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../ext/vector_int2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../ext/scalar_int_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../ext/../detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_uint2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_uint2_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../ext/vector_uint2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../ext/scalar_uint_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_bool3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/type_vec3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/compute_vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/compute_vector_decl.hpp \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/functional \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binary_negate.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/bind.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binder1st.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binder2nd.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/mem_fn.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/mem_fun_ref.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_binary_function.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_negate.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/function.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/strip_signature.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/boyer_moore_searcher.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/vector.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_copy_n.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/in_out_result.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_copy.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/unreachable_sentinel.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/vector.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/temp_value.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__split_buffer \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/comparison.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare_three_way.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/three_way_comp_ref_type.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/container_traits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/container_traits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/swap.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/array \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/static_bounded_iter.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/unordered_map \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/is_transparent.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__hash_table \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/can_extract_key.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/erase_if_container.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ranges_iterator_traits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__node_handle \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/default_searcher.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/not_fn.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/perfect_forward.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/vector \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/vector_bool.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit_reference \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/pmr.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cerrno \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/clocale \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/locale.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_locale.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_locale_posix2008.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_locale_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/locale \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/locale_base_api.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/support/apple.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/support/bsd_like.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_xlocale.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/__xlocale.h \
@@ -690,10 +773,11 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/once_flag.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/no_destroy.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/pad_and_output.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ios \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/error_category.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/error_code.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/errc.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cerrno \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/error_condition.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/system_error.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/mutex \
@@ -705,14 +789,6 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/lock_guard.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/id.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/system_error \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/istream \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/basic_ostream.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/put_character_sequence.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/pad_and_output.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit_reference \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_char_like_type.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/locale \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/streambuf \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/nl_types.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/types.h \
@@ -742,55 +818,201 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdarg \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_bool3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_float3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_float3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_double3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_double3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_int3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_int3_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../ext/vector_int3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_uint3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_uint3_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../ext/vector_uint3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_bool4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/type_vec4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_bool4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_float4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_float4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_double4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_double4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_int4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_int4_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../ext/vector_int4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_uint4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/vector_uint4_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../ext/vector_uint4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/matrix_double2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/type_mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/type_mat2x2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../mat2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat2x3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double2x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float2x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../mat2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat2x4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double2x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float2x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../mat3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat3x2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double3x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float3x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat3x3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/_fixes.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/func_common.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../detail/func_vector_relational.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/compute_common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/type_vec1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/type_vec1.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/./compute_vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double3x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float3x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../mat3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat3x4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double3x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float3x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../mat4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat4x2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double4x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float4x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../mat4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat4x3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double4x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float4x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/type_mat4x4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/func_geometric.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../exponential.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../detail/type_vec1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../detail/func_exponential.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../detail/../vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/../detail/../detail/../common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_double4x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/.././ext/matrix_float4x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../detail/func_matrix.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/../detail/../detail/../geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/matrix_double2x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/matrix_float2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/./ext/matrix_float2x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_trigonometric.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/exponential.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/packing.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_packing.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/../common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_half.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_half.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/integer.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_integer.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/include/math/transform.h \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/matrix_transform.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/matrix_projection.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/../gtc/constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/../gtc/../ext/scalar_constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/../gtc/../ext/../detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/../gtc/../ext/scalar_constants.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/../gtc/constants.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/../geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/../trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/../matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/matrix_projection.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/matrix_clip_space.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/../ext/scalar_constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/matrix_clip_space.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/matrix_transform.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../ext/matrix_transform.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/matrix_transform.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/../matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glad/include/glad/glad.h \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glad/include/KHR/khrplatform.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/istream \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/basic_ostream.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/put_character_sequence.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_char_like_type.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/format \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/array \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare_three_way.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/three_way_comp_ref_type.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/static_bounded_iter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/queue \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_copy.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/in_out_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/deque.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/queue.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/vector.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/deque \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/temp_value.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__split_buffer \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/container_traits.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/functional \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binary_negate.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/bind.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binder1st.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binder2nd.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/mem_fn.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/mem_fun_ref.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_binary_function.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_negate.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/function.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/strip_signature.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/boyer_moore_searcher.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/vector.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_copy_n.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/unreachable_sentinel.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/comparison.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/container_traits.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/swap.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/unordered_map \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/is_transparent.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__hash_table \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/can_extract_key.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/erase_if_container.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ranges_iterator_traits.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__node_handle \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/default_searcher.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/not_fn.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/perfect_forward.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/vector \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/vector_bool.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/pmr.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stack \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/stack.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/print \

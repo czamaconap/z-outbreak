@@ -1,5 +1,6 @@
 #include "graphics/renderer.h"
 #include "graphics/shader.h"
+#include "math/transform.h"
 #include <glad/glad.h>
 #include <iostream>
 
@@ -8,6 +9,7 @@ namespace Renderer
     static unsigned int g_VAO = 0;
     static unsigned int g_VBO = 0;
     static Shader g_shader;
+    static Transform g_triangleTransform;
 
     bool Init()
     {
@@ -36,6 +38,8 @@ namespace Renderer
             return false;
         }
 
+        g_triangleTransform.scale = glm::vec3(0.4f, 0.4f, 1.0f);
+
         return true;
     }
 
@@ -45,13 +49,14 @@ namespace Renderer
         glClear(GL_COLOR_BUFFER_BIT);
 
         g_shader.Use();
+        g_shader.SetMat4("model", g_triangleTransform.ToMat4());
+
         glBindVertexArray(g_VAO);
         glDrawArrays(GL_TRIANGLES, 0, 3);
     }
 
     void EndFrame()
     {
-        // reservado para UI/postprocess en el futuro
     }
 
     void Cleanup()

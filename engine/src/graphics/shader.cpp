@@ -4,6 +4,7 @@
 #include <iostream>
 #include <sstream>
 #include <string>
+#include <glm/gtc/type_ptr.hpp>
 
 static std::string ReadFile(const std::string &path)
 {
@@ -97,4 +98,10 @@ bool Shader::Load(const std::string &vertexPath, const std::string &fragmentPath
 void Shader::Use() const
 {
     glUseProgram(ID);
+}
+
+void Shader::SetMat4(const std::string &name, const glm::mat4 &value) const
+{
+    int location = glGetUniformLocation(ID, name.c_str());
+    glUniformMatrix4fv(location, 1, GL_FALSE, glm::value_ptr(value));
 }

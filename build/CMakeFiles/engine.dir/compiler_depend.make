@@ -807,6 +807,7 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: /Users/christianzamaco
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/__wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/__xlocale.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_abort.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_bounds.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_ctermid.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_ctype.h \
@@ -814,6 +815,7 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: /Users/christianzamaco
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_locale_posix2008.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_mb_cur_max.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_printf.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_static_assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_stdio.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_stdlib.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_string.h \
@@ -842,6 +844,7 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: /Users/christianzamaco
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/signal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/types.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/all_of.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/any_of.h \
@@ -1380,8 +1383,10 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: /Users/christianzamaco
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/atomic \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bit \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cerrno \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cfloat \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/climits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/clocale \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath \
@@ -1400,6 +1405,7 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: /Users/christianzamaco
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/deque \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/errno.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/exception \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/float.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/format \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/functional \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/initializer_list \
@@ -1442,6 +1448,7 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: /Users/christianzamaco
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/errno.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/float.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/_OSByteOrder.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/arm/_OSByteOrder.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/limits.h \
@@ -1585,6 +1592,7 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: /Users/christianzamaco
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_rsize_t.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_size_t.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_wchar_t.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/float.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/limits.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/ptrcheck.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
@@ -1592,8 +1600,222 @@ CMakeFiles/engine.dir/engine/src/graphics/renderer.cpp.o: /Users/christianzamaco
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
   /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/include/graphics/renderer.h \
   /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/include/graphics/shader.h \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/include/math/transform.h \
   /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glad/include/KHR/khrplatform.h \
-  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glad/include/glad/glad.h
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glad/include/glad/glad.h \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_exponential.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_vector_relational.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/exponential.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_fixes.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_common.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_geometric.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec1.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_matrix.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_vector_decl.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_int_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_uint_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int2_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int3_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int4_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint2_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint3_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint4_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/simd/platform.h \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_fixes.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_integer.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_packing.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_trigonometric.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_half.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_half.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/exponential.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/fwd.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/glm.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_constants.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/constants.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_clip_space.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_clip_space.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_projection.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_projection.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_transform.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_transform.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/matrix_transform.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/matrix_transform.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/integer.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/packing.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp
 
 CMakeFiles/engine.dir/engine/src/graphics/shader.cpp.o: /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/src/graphics/shader.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
@@ -1604,6 +1826,7 @@ CMakeFiles/engine.dir/engine/src/graphics/shader.cpp.o: /Users/christianzamacona
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/__wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/__xlocale.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_abort.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_bounds.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_ctermid.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_ctype.h \
@@ -1611,6 +1834,7 @@ CMakeFiles/engine.dir/engine/src/graphics/shader.cpp.o: /Users/christianzamacona
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_locale_posix2008.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_mb_cur_max.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_printf.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_static_assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_stdio.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_stdlib.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_string.h \
@@ -1639,6 +1863,7 @@ CMakeFiles/engine.dir/engine/src/graphics/shader.cpp.o: /Users/christianzamacona
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/limits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/signal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/types.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/all_of.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/any_of.h \
@@ -2194,8 +2419,10 @@ CMakeFiles/engine.dir/engine/src/graphics/shader.cpp.o: /Users/christianzamacona
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/atomic \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bit \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cerrno \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cfloat \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/climits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/clocale \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath \
@@ -2215,6 +2442,7 @@ CMakeFiles/engine.dir/engine/src/graphics/shader.cpp.o: /Users/christianzamacona
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/errno.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/exception \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/filesystem \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/float.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/format \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/fstream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/functional \
@@ -2260,6 +2488,7 @@ CMakeFiles/engine.dir/engine/src/graphics/shader.cpp.o: /Users/christianzamacona
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/errno.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/float.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/_OSByteOrder.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/arm/_OSByteOrder.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/limits.h \
@@ -2403,6 +2632,7 @@ CMakeFiles/engine.dir/engine/src/graphics/shader.cpp.o: /Users/christianzamacona
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_rsize_t.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_size_t.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_wchar_t.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/float.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/limits.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/ptrcheck.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
@@ -2410,7 +2640,311 @@ CMakeFiles/engine.dir/engine/src/graphics/shader.cpp.o: /Users/christianzamacona
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
   /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/include/graphics/shader.h \
   /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glad/include/KHR/khrplatform.h \
-  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glad/include/glad/glad.h
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glad/include/glad/glad.h \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_exponential.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_vector_relational.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/exponential.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_fixes.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_common.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_geometric.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec1.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_matrix.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_vector_decl.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_int_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_uint_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float2_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float3_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float4_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int2_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int3_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int4_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint2_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint3_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint4_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/simd/platform.h \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_fixes.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_vectorize.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_integer.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_packing.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_trigonometric.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_half.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_half.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/exponential.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/fwd.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/glm.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/exponential.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/exponential.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_relational.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/matrix_transform.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_float.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_quat.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_quat.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/exponential.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/exponential.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_geometric.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_int_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_uint_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_common.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_common.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_double.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_double_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_float.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_float_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_transform.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_transform.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_trigonometric.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool1_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double1_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float1_precision.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int1_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_relational.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint1_sized.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_clip_space.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_clip_space.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_projection.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_projection.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_transform.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_transform.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_constants.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/constants.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/constants.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/matrix_transform.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/matrix_transform.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/epsilon.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/epsilon.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/quaternion.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/quaternion.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/vec1.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/type_ptr.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/type_ptr.inl \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/integer.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/packing.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec2.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec3.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec4.hpp \
+  /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp
 
 CMakeFiles/engine.dir/engine/src/graphics/stb_image.cpp.o: /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/src/graphics/stb_image.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
@@ -4886,8 +5420,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/os/base.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/objc/objc-api.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach_debug/zone_info.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/vm_sync.h:
@@ -4895,8 +5427,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/vm_statistics.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/vm_page_size.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/vm_inherit.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/vm_behavior.h:
 
@@ -4937,8 +5467,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/host_security.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/host_priv.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/dyld_kernel.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_filesec_t.h:
 
@@ -4996,8 +5524,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/TargetConditionals.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ConditionalMacros.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Block.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/x509defs.h:
@@ -5024,13 +5550,9 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/cssmapi.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/cssmaci.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/cssm.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/SecureTransport.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/SecTransformReadTransform.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xpc/rich_error.h:
 
@@ -5088,8 +5610,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/IOKit.framework/Headers/hidsystem/IOLLEvent.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/IOKit.framework/Headers/hidsystem/IOHIDTypes.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/IOKit.framework/Headers/graphics/IOGraphicsTypes.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOSharedLock.h:
@@ -5099,14 +5619,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOReturn.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/DiskArbitration.framework/Headers/DASession.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/thread_status.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreText.framework/Headers/SFNTLayoutTypes.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreText.framework/Headers/CTTypesetter.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreText.framework/Headers/CTTextTab.h:
 
@@ -5125,8 +5637,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/SearchKit.framework/Headers/SearchKit.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/SearchKit.framework/Headers/SKIndex.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/SearchKit.framework/Headers/SKDocument.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/OSServices.framework/Headers/WSMethodInvocation.h:
 
@@ -5150,8 +5660,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/OSServices.framework/Headers/CSIdentity.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Headers/Metadata.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Headers/MDQuery.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/SecTrustSettings.h:
@@ -5163,10 +5671,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Headers/MDImporter.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Headers/LSInfoDeprecated.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/thread_special_ports.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Headers/LSConstants.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/DictionaryServices.framework/Headers/DictionaryServices.h:
 
@@ -5226,19 +5730,13 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/AE.framework/Headers/AE.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGWindowLevel.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGWindow.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGRenderingBufferProvider.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFStream.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFOperatorTable.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFObject.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFDocument.h:
 
@@ -5274,17 +5772,9 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDisplayConfiguration.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/TextUtils.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplayMetal.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDataProvider.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGConvertColorDataWithFormat.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/float.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGColorSpace.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDataConsumer.h:
 
@@ -5296,12 +5786,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBitmapContext.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitKeys.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreText.framework/Headers/CTParagraphStyle.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/SecBase.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h:
@@ -5311,8 +5795,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFURLEnumerator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFURLAccess.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFTree.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFTimeZone.h:
 
@@ -5389,8 +5871,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetDiagnostics.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFHTTPMessage.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFHTTPAuthentication.h:
 
@@ -5470,10 +5950,6 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/secure/_strings.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/secure/_string.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gltypes.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/HFSVolumes.h:
@@ -5486,11 +5962,45 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/stb/stb_image.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/IOKit.framework/Headers/hidsystem/IOHIDTypes.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_assert.h:
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/type_ptr.inl:
 
-/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/src/graphics/stb_image.cpp:
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/quaternion.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/epsilon.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint1_sized.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_relational.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int1_sized.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/TextUtils.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDirectDisplayMetal.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float1_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool1_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_trigonometric.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_float_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_double_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint1.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_relational.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_relational.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_relational.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_geometric.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_common.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream:
 
@@ -5526,13 +6036,239 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/src/graphics/shader.cpp:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/matrix_transform.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/matrix_transform.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_transform.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_clip_space.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/constants.inl:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFObject.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/constants.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_constants.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_constants.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/cssmaci.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_half.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_half.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_packing.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int4_sized.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int2_sized.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float4_precision.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreText.framework/Headers/CTTypesetter.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float3.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float2.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double4.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double3_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double2.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool3_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x2_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x2.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x2_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint4.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint2.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Headers/Metadata.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int4.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int3.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_uint_sized.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/scalar_int_sized.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec4.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec3.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFTree.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x4.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x3.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_matrix.inl:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/SecTransformReadTransform.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x4_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x3_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x2.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x4.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x2.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x4_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x3_precision.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGRenderingBufferProvider.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double1.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x3.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/thread_status.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreText.framework/Headers/SFNTLayoutTypes.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x2.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double2_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x4_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x4.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x3_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x3.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gltypes.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x2_precision.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/thread_special_ports.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Headers/LSConstants.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x4.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/src/graphics/stb_image.cpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x2_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x3_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x2.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x3.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/SearchKit.framework/Headers/SKDocument.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x4.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFHTTPMessage.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x3.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x2.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x4.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x4.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x3.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x2.inl:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/objc/objc-api.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x2.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/vm_inherit.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x4.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x4.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x3.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x2.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/geometric.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_common.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_fixes.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_vector_relational.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/exponential.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec1.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitKeys.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreText.framework/Headers/CTParagraphStyle.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/qualifier.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/dyld_kernel.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_exponential.inl:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/secure/_string.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/_vectorize.hpp:
+
 /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/include/graphics/shader.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/SecKeychainItem.h:
 
 /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/include/graphics/renderer.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGColorSpace.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/float.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ConditionalMacros.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cfloat:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool1.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_assert.h:
+
 /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/src/graphics/renderer.cpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/simd/platform.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float4.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double3x2.hpp:
 
 /opt/homebrew/include/GLFW/glfw3.h:
 
@@ -5648,6 +6384,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_in_port_t.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x2_precision.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_ctype.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
@@ -5686,6 +6424,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_endian.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x4.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdlib.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/dispatch/dispatch.h:
@@ -5697,6 +6437,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/arm/vm_types.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double3.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ino64_t.h:
 
@@ -5754,6 +6496,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/version:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_transform.inl:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/tuple:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/ndr.h:
@@ -5763,6 +6507,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/unreachable_sentinel.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string_view:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_vector_relational.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string.h:
 
@@ -5777,6 +6523,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/from_range.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stdio.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_projection.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stack:
 
@@ -5812,6 +6560,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iterator:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_common.inl:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/three_way_comp_ref_type.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/istream:
@@ -5834,9 +6584,13 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/format:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec4.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/exception:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/dispatch/time.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/ptrcheck.h:
 
@@ -5850,11 +6604,15 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATSUI.framework/Headers/ATSUnicodeTypes.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x2_precision.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/identity.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdio:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdint:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint2_sized.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iterator.h:
 
@@ -5916,6 +6674,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/unreachable.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/common.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_signed.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/rel_ops.h:
@@ -5932,6 +6692,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_dev_t.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool3.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/no_destroy.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/___wctype.h:
@@ -5939,6 +6701,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/ColorSync.framework/Headers/ColorSyncProfile.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/move.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_quat.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/is_valid_range.h:
 
@@ -5956,9 +6720,15 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/exception_guard.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float2_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat2x3.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/element_count.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Headers/LSQuarantine.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x4.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_binary_function.h:
 
@@ -5991,6 +6761,10 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/empty.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/vm_purgable.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_clip_space.inl:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat3x3.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/errno.h:
 
@@ -6134,6 +6908,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_reference_wrapper.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x3.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_reference.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_primary_template.h:
@@ -6147,6 +6923,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/OSServices.framework/Headers/CSIdentityAuthority.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_pointer.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x3.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_nothrow_destructible.h:
 
@@ -6186,6 +6964,10 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_enum.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/glm.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool2_precision.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/locale.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/SecReadTransform.h:
@@ -6209,6 +6991,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_assignable.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/processor_set.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec2.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/forward_like.h:
 
@@ -6236,6 +7020,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/integral_constant.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec1.inl:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/has_unique_object_representation.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/OSServices.framework/Headers/WSTypes.h:
@@ -6251,6 +7037,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/QD.framework/Headers/Fonts.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/copy_cv.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_projection.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/back_insert_iterator.h:
 
@@ -6270,6 +7058,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/directory_iterator.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x4.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/conditional.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/aligned_storage.h:
@@ -6279,6 +7069,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/binary_search.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_rvalue_reference.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/setup.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_pointer.h:
 
@@ -6312,6 +7104,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/id.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x4.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/compare:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/error_condition.h:
@@ -6331,6 +7125,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFString.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__split_buffer:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/matrix.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_volatile.h:
 
@@ -6354,9 +7150,9 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/enable_borrowed_range.h:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/float.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/TextCommon.h:
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/float.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/empty.h:
 
@@ -6402,6 +7198,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/AXUIElement.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float1.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_permutation.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string:
@@ -6430,6 +7228,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/negation.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int3_sized.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/allocate.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFScanner.h:
@@ -6455,6 +7255,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/ImageIO.framework/Headers/CGImageDestination.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove_copy_if.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vec2.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/pointer_traits.h:
 
@@ -6534,6 +7336,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/machine/vm_types.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_quat.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/count_if.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/support/bsd_like.h:
@@ -6562,11 +7366,15 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStringEncodingExt.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool2.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/rounding_functions.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max_element.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double1_precision.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cwchar:
 
@@ -6575,6 +7383,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/ColorSync.framework/Headers/ColorSyncCMM.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_abort.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float2x3.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/swappable.h:
 
@@ -6591,6 +7401,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_end.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_integer.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/reverse_copy.h:
 
@@ -6622,6 +7434,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/default_sentinel.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x3.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/mem_fn.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/access.h:
@@ -6635,6 +7449,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__hash_table:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__undef_macros:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x4.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/string.h:
 
@@ -6659,6 +7475,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/_OSByteOrder.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/acl.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/engine/include/math/transform.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_bounded_array.h:
 
@@ -6698,6 +7516,10 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/QD.framework/Headers/Quickdraw.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x2.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x4.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_set.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/algorithm:
@@ -6720,6 +7542,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/os/availability.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/vec1.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/array.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/CarbonCore.h:
@@ -6735,6 +7559,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_implicitly_default_constructible.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/make_tuple_types.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/epsilon.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uint8_t.h:
 
@@ -6768,6 +7594,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/OSUtils.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int1.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/pair.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGEventSource.h:
@@ -6800,7 +7628,13 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/terminate.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/quaternion.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x2.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/nested_exception.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float4x3.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/exception_ptr.h:
 
@@ -6815,6 +7649,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/contention_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__debug_utils/randomize_range.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_trigonometric.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/stable_partition.h:
 
@@ -6834,11 +7670,15 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__cstddef/size_t.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_vector_decl.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/segmented_iterator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/AE.framework/Headers/AEMach.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__configuration/language.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x3_precision.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/errc.h:
 
@@ -6876,6 +7716,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/rotate_copy.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_geometric.inl:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/totally_ordered.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/vector:
@@ -6887,6 +7729,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/maybe_const.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/oidscrl.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x3_precision.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/same_as.h:
 
@@ -6909,6 +7753,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__variant/monostate.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Components.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/vector_relational.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/error_code.h:
 
@@ -6955,6 +7801,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFXMLNode.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/gtc/type_ptr.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
 
@@ -7010,6 +7858,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_ptrdiff_t.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_float3_precision.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/host_notify.h:
@@ -7044,6 +7894,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/kill_dependency.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_float.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__configuration/compiler.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/push_heap.h:
@@ -7051,6 +7903,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/semiregular.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/emmspi.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_double.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h:
 
@@ -7096,6 +7950,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/upper_bound.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_mat4x3.inl:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/copy_backward.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/transform.h:
@@ -7126,6 +7982,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFUUID.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_double4_precision.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/string_view.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Security.framework/Headers/SecTrust.h:
@@ -7134,11 +7992,15 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/optional:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_float.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFDictionary.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ios:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_transform.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/concepts:
 
@@ -7157,6 +8019,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_sorted.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_function.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/packing.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/support/pthread.h:
 
@@ -7186,6 +8050,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/addressof.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint4_sized.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_abstract.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/_limits.h:
@@ -7195,6 +8061,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/operations.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__verbose_abort:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/integer.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove.h:
 
@@ -7224,7 +8092,11 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/deque.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double2x4_precision.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ratio:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/type_vec3.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove_if.h:
 
@@ -7266,6 +8138,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_transform.inl:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/none_of.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
@@ -7296,6 +8170,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_class.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_double4x4_precision.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/sort.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/support/c11.h:
@@ -7313,6 +8189,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/limits:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFDictionary.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/quaternion_geometric.inl:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/move.h:
 
@@ -7448,6 +8326,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/generate_n.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool4.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__cstddef/byte.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/sync_policy.h:
@@ -7462,7 +8342,11 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/dlfcn.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/matrix_float3x4_precision.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unique_copy.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/trigonometric.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/hypot.h:
 
@@ -7473,6 +8357,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/DriverServices.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_mb_cur_max.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint3_sized.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/common_reference.h:
 
@@ -7488,6 +8374,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/alloca.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/fwd.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uintmax_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_intptr_t.h:
@@ -7495,6 +8383,10 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Headers/LSOpen.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_object.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_bool4_precision.hpp:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat3x2.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_size.h:
 
@@ -7556,11 +8448,15 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGToneMapping.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/func_trigonometric.inl:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int64_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/enable_insertable.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat2x2.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/invocable.h:
 
@@ -7588,6 +8484,8 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/mach_interface.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_int2.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/new_handler.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_constructible.h:
@@ -7614,11 +8512,17 @@ CMakeFiles/engine.dir/vendor/imgui/imgui_widgets.cpp.o: /Users/christianzamacona
 
 /Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/imgui/imgui_widgets.cpp:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/ext/vector_uint3.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/fill_n.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetServices.h:
 
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/mat4x2.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/any_of.h:
+
+/Users/christianzamacona/Documents/videogames-projects/learning-OpenGL/z-outbreak/vendor/glm/glm/detail/compute_common.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/static_bounded_iter.h:
 

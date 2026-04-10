@@ -13,9 +13,15 @@ namespace Renderer
     bool Init()
     {
         float vertices[] = {
+            // primer triángulo
             -0.5f, -0.5f, 0.0f,
             0.5f, -0.5f, 0.0f,
-            0.0f, 0.5f, 0.0f};
+            0.5f, 0.5f, 0.0f,
+
+            // segundo triángulo
+            -0.5f, -0.5f, 0.0f,
+            0.5f, 0.5f, 0.0f,
+            -0.5f, 0.5f, 0.0f};
 
         glGenVertexArrays(1, &g_VAO);
         glGenBuffers(1, &g_VBO);
@@ -46,13 +52,13 @@ namespace Renderer
         glClear(GL_COLOR_BUFFER_BIT);
     }
 
-    void DrawTriangle(const Transform &transform)
+    void DrawQuad(const Transform &transform)
     {
         g_shader.Use();
         g_shader.SetMat4("model", transform.ToMat4());
 
         glBindVertexArray(g_VAO);
-        glDrawArrays(GL_TRIANGLES, 0, 3);
+        glDrawArrays(GL_TRIANGLES, 0, 6);
     }
 
     void EndFrame()

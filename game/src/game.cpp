@@ -13,5 +13,5 @@ void Game::Update()
 
 void Game::Render()
 {
-    Renderer::DrawTriangle(player.transform);
+    Renderer::DrawQuad(player.transform);
 }

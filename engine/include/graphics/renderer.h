@@ -6,7 +6,7 @@ namespace Renderer
 {
     bool Init();
     void BeginFrame();
-    void DrawTriangle(const Transform &transform);
+    void DrawQuad(const Transform &transform);
     void EndFrame();
     void Cleanup();
 }

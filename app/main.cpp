@@ -1,6 +1,7 @@
 #include "core/gl_system.h"
 #include "graphics/renderer.h"
 #include "input/input.h"
+#include "game.h"
 #include <GLFW/glfw3.h>
 
 int main()
@@ -16,6 +17,9 @@ int main()
         return -1;
     }
 
+    Game game;
+    game.Init();
+
     while (!GLSystem::WindowShouldClose())
     {
         GLSystem::PollEvents();
@@ -26,7 +30,10 @@ int main()
             GLSystem::SetWindowShouldClose(true);
         }
 
+        game.Update();
+
         Renderer::BeginFrame();
+        game.Render();
         Renderer::EndFrame();
 
         GLSystem::SwapBuffers();

@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Nombre del proyecto
-project(Z-OUTBREAK)
+project(Z_OUTBREAK)
 
 # Estándar de C++
 set(CMAKE_CXX_STANDARD 17)
@@ -24,18 +24,11 @@ find_package(glfw3 REQUIRED)
 # Engine
 # =========================
 add_library(engine
-    # Core / ventana
     engine/src/core/gl_system.cpp
-
-    # Input
     engine/src/input/input.cpp
-
-    # Graphics
     engine/src/graphics/renderer.cpp
     engine/src/graphics/shader.cpp
     engine/src/graphics/stb_image.cpp
-
-    # Vendor
     vendor/glad/src/glad.c
 
     # Dear ImGui core
@@ -48,14 +41,12 @@ add_library(engine
     vendor/imgui/backends/imgui_impl_glfw.cpp
     vendor/imgui/backends/imgui_impl_opengl3.cpp
 
-    # Opcional: demo de ImGui
+    # Opcional
     # vendor/imgui/imgui_demo.cpp
 )
 
-# Includes públicos del engine
 target_include_directories(engine PUBLIC
     engine/include
-    game/include
     vendor/glad/include
     vendor/glm
     vendor/stb
@@ -63,10 +54,25 @@ target_include_directories(engine PUBLIC
     vendor/imgui/backends
 )
 
-# Link de librerías del engine
 target_link_libraries(engine PUBLIC
     OpenGL::GL
     glfw
+)
+
+# =========================
+# Game
+# =========================
+add_library(game
+    game/src/game.cpp
+    game/src/player/player.cpp
+)
+
+target_include_directories(game PUBLIC
+    game/include
+)
+
+target_link_libraries(game PUBLIC
+    engine
 )
 
 # =========================
@@ -76,13 +82,11 @@ add_executable(app
     app/main.cpp
 )
 
-# La app usa el engine
 target_link_libraries(app PRIVATE
-    engine
+    game
 )
 
 # =========================
 # Recursos
 # =========================
-# Copia la carpeta res al directorio de build
 file(COPY res DESTINATION ${CMAKE_BINARY_DIR})

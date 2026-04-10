@@ -1,5 +1,6 @@
 #include "player/player.h"
 #include "input/input.h"
+#include "core/time.h"
 #include <GLFW/glfw3.h>
 
 void Player::Init()
@@ -10,23 +11,25 @@ void Player::Init()
 
 void Player::Update()
 {
+    float dt = Time::GetDeltaTime();
+
     if (Input::KeyDown(GLFW_KEY_A))
     {
-        transform.position.x -= speed;
+        transform.position.x -= speed * dt;
     }
 
     if (Input::KeyDown(GLFW_KEY_D))
     {
-        transform.position.x += speed;
+        transform.position.x += speed * dt;
     }
 
     if (Input::KeyDown(GLFW_KEY_W))
     {
-        transform.position.y += speed;
+        transform.position.y += speed * dt;
     }
 
     if (Input::KeyDown(GLFW_KEY_S))
     {
-        transform.position.y -= speed;
+        transform.position.y -= speed * dt;
     }
 }

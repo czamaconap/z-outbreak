@@ -5,7 +5,7 @@
 struct Player
 {
     Transform transform;
-    float speed = 0.01f;
+    float speed = 1.0f;
 
     void Init();
     void Update();

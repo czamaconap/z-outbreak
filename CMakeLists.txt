@@ -25,6 +25,7 @@ find_package(glfw3 REQUIRED)
 # =========================
 add_library(engine
     engine/src/core/gl_system.cpp
+    engine/src/core/time.cpp
     engine/src/input/input.cpp
     engine/src/graphics/renderer.cpp
     engine/src/graphics/shader.cpp

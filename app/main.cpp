@@ -1,4 +1,5 @@
 #include "core/gl_system.h"
+#include "core/time.h"
 #include "graphics/renderer.h"
 #include "input/input.h"
 #include "game.h"
@@ -6,7 +7,7 @@
 
 int main()
 {
-    if (!GLSystem::Init(800, 600, "Outbreak"))
+    if (!GLSystem::Init(800, 600, "Z-Outbreak"))
     {
         return -1;
     }
@@ -23,6 +24,7 @@ int main()
     while (!GLSystem::WindowShouldClose())
     {
         GLSystem::PollEvents();
+        Time::Update();
         Input::Update(GLSystem::GetWindow());
 
         if (Input::KeyPressed(GLFW_KEY_ESCAPE))

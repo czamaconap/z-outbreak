@@ -1,6 +1,7 @@
 #pragma once
 
 #include "math/transform.h"
+#include "world/room.h"
 
 struct Player
 {
@@ -8,5 +9,5 @@ struct Player
     float speed = 1.0f;
 
     void Init();
-    void Update();
+    void Update(const Room &room);
 };

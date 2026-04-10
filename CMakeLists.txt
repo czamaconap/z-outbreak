@@ -66,6 +66,7 @@ target_link_libraries(engine PUBLIC
 add_library(game
     game/src/game.cpp
     game/src/player/player.cpp
+    game/src/world/room.cpp
 )
 
 target_include_directories(game PUBLIC

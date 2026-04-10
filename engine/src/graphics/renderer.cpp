@@ -2,6 +2,7 @@
 #include "graphics/shader.h"
 #include "math/transform.h"
 #include <glad/glad.h>
+#include <glm/vec3.hpp>
 #include <iostream>
 
 namespace Renderer
@@ -52,11 +53,11 @@ namespace Renderer
         glClear(GL_COLOR_BUFFER_BIT);
     }
 
-    void DrawQuad(const Transform &transform)
+    void DrawQuad(const Transform &transform, const glm::vec3 &color)
     {
         g_shader.Use();
         g_shader.SetMat4("model", transform.ToMat4());
-
+        g_shader.SetVec3("uColor", color);
         glBindVertexArray(g_VAO);
         glDrawArrays(GL_TRIANGLES, 0, 6);
     }
